@@ -1,7 +1,7 @@
 # myNordic
 
 Getting started with nRF Connect SDK.
-The exercises are taked from The Nordic Developer Academy and they might be slightly different from the course.
+The exercises are taken from The Nordic Developer Academy and they might be slightly different from the course.
 Link: https://academy.nordicsemi.com/lessons/lesson-1-nrf-connect-sdk-introduction/
 
 ## Hardware & Software
